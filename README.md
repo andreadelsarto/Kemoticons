@@ -1,0 +1,2 @@
+# Kemoticons
+Emoticons for KDE
